@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Samsing z26 Flap",
+    "price": 450000,
+    "category": "Tech & Gadgets",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Roundneck T-shirt",
+    "price": 20000,
+    "category": "Fashion & Wear",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=300&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 3,
+    "name": "MIDI Keyboard with Pads",
+    "price": 85000,
+    "category": "Tech & Gadgets",
+    "image": "https://images.unsplash.com/photo-1522870389523-7e83c0065eaf?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 4,
+    "name": "Beyonce Pro 18",
+    "price": 300000,
+    "category": "Tech & Gadgets",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 5,
+    "name": "Davvy Towel",
+    "price": 15000,
+    "category": "Home Essentials",
+    "image": "https://images.unsplash.com/photo-1616663717839-2fea42e1a1f6?q=80&w=436&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 6,
+    "name": "Jay Z toilet paper",
+    "price": 850,
+    "category": "Home Essentials",
+    "image": "https://images.unsplash.com/photo-1583496597467-d968d2fa33a8?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 7,
+    "name": "Merrta glasses",
+    "price": 120000,
+    "category": "Tech & Gadgets",
+    "image": "https://plus.unsplash.com/premium_photo-1733749585385-f09c117dc87a?q=80&w=415&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 8,
+    "name": "Polka dot Dress",
+    "price": 10000,
+    "category": "Fashion & Wear",
+    "image": "https://images.unsplash.com/photo-1603290939650-b553549a5739?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Dorm Headphones",
+    "price": 25000,
+    "category": "Tech & Gadgets",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 10,
+    "name": "I Wanna Be On Disney album - Davivy",
+    "price": 10000,
+    "category": "Music & Entertainment",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-REPV3HGg2SommYu96y61jPyGTHEgjIA61DL_7kceKMf8HOOJV5Y01Y&s=10"
+  },
+  {
+    "id": 11,
+    "name": "FINAL GIRL - Dove Cameron",
+    "price": 12000,
+    "category": "Music & Entertainment",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a9/Final_Girl_%28album%29.jpg/250px-Final_Girl_%28album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+    "id": 12,
+    "name": "Bic Pen ",
+    "price": 200,
+    "category": "Books & Stationery",
+    "image": "https://images.unsplash.com/photo-1711147344512-316ea9773d42?q=80&w=876&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  }
+]
