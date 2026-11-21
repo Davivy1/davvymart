@@ -57,16 +57,12 @@ export const Auth = ({ onLogin }) => {
             {isLoginTab ? (
               <>
                 Don't have an account?{' '}
-                <span onClick={() => setIsLoginTab(false)} style={{ color: 'var(--brand-blue)', textDecoration: 'underline', cursor: 'pointer' }}>
-                  Register
-                </span>
+                <span onClick={() => setIsLoginTab(false)} >Register</span>
               </>
             ) : (
               <>
                 Already have an account?{' '}
-                <span onClick={() => setIsLoginTab(true)} style={{ color: 'var(--brand-blue)', textDecoration: 'underline', cursor: 'pointer' }}>
-                  Login
-                </span>
+                <span onClick={() => setIsLoginTab(true)}>Login</span>
               </>
             )}
           </p>

@@ -6,7 +6,7 @@ export const Home = ({ setActiveTab, addToCart, isLoggedIn, searchQuery }) => {
 
   const categories = ['All', 'Tech & Gadgets', 'Fashion & Wear', 'Home Essentials', 'Music & Entertainment','Books & Stationery'];
 
-  const filteredProducts = productsData.filter((product) => {
+  const filteredProducts = productsData.filter((product) => { 
     const matchesCategory = selectedCategory === 'All' || product.category === selectedCategory;
     const matchesSearch = product.name.toLowerCase().includes((searchQuery || '').toLowerCase());
     return matchesCategory && matchesSearch;
